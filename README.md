@@ -10,7 +10,7 @@
 - **Java**  
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
- **Spring Boot**  
+- **Spring Boot**  
   ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
 
 - **Spring Data JPA**  
