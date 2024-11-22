@@ -7,44 +7,29 @@
 
 ### 🛠️ **Skills**
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48" alt="Java" />
-      <br /><b>Java</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="48" height="48" alt="Spring Boot" />
-      <br /><b>Spring Boot</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sql-coding-and-development-flatart-icons-outline-flatarticons.png" width="48" height="48" alt="Spring Data JPA" />
-      <br /><b>Spring Data JPA</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-spring-security-is-an-authentication-and-access-control-framework-logo-shadow-tal-revivo.png" width="48" height="48" alt="Spring Security" />
-      <br /><b>Spring Security</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" height="48" alt="HTML" />
-      <br /><b>HTML</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" alt="CSS" />
-      <br /><b>CSS</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" alt="Bootstrap" />
-      <br /><b>Bootstrap</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="48" height="48" alt="Android Studio" />
-      <br /><b>Android Studio</b>
-    </td>
-  </tr>
-</table>
+- **Java**  
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
+- **Spring Boot**  
+  ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+
+- **Spring Data JPA**  
+  ![Spring Data JPA](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sql-coding-and-development-flatart-icons-outline-flatarticons.png)
+
+- **Spring Security**  
+  ![Spring Security](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-spring-security-is-an-authentication-and-access-control-framework-logo-shadow-tal-revivo.png)
+
+- **HTML**  
+  ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+
+- **CSS**  
+  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+
+- **Bootstrap**  
+  ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+
+- **Android Studio**  
+  ![Android Studio](https://img.icons8.com/color/48/000000/android-studio--v2.png)
 
 ---
 
