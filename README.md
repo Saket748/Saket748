@@ -32,14 +32,14 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" />
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-sql-coding-and-development-flatart-icons-outline-flatarticons.png" alt="Spring Data JPA" title="Spring Data JPA" />
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-spring-security-is-an-authentication-and-access-control-framework-logo-shadow-tal-revivo.png" alt="Spring Security" title="Spring Security" />
+  <img src="https://img.icons8.com/ios-filled/50/00758f/mysql-logo.png" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio" />
-  <img src="https://img.icons8.com/ios-filled/50/00758f/mysql-logo.png" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+  <img src="https://img.icons8.com/ios-filled/50/26e07f/shield.png" alt="Spring Security" title="Spring Security" />
+  <img src="https://img.icons8.com/ios-glyphs/50/4caf50/database.png" alt="Spring Data JPA" title="Spring Data JPA" />
 </p>
 ---
 
