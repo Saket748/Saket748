@@ -46,8 +46,15 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/saket/)  
-[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/saket/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/saket-yadav-433a56270/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Saketyadav/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48" title="LeetCode" />
+  </a>
+</p>
+
 
 ---
 
