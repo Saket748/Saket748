@@ -38,10 +38,9 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
   <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio" />
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-mysql-database-flatart-icons-outline-flatarticons.png" alt="MySQL" title="MySQL" />
+  <img src="https://img.icons8.com/ios-filled/50/00758f/mysql-logo.png" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 </p>
-
 ---
 
 ✨ _“Code, Learn, and Inspire”_ ✨
