@@ -42,6 +42,6 @@ I’m a passionate developer experienced in creating efficient, scalable, and ro
   <img src="https://img.icons8.com/ios-filled/50/26e07f/shield.png" alt="Spring Security" title="Spring Security" />
   <img src="https://img.icons8.com/ios-glyphs/50/4caf50/database.png" alt="Spring Data JPA" title="Spring Data JPA" />
 </p>
----
+
 
 ✨ _“Code, Learn, and Inspire”_ ✨
