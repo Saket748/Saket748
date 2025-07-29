@@ -1,7 +1,7 @@
 # Hi there! 👋  
 
 ## **I am Saket Yadav** 😊  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=F75C7E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Java+Backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=35&color=F75C7E&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Java+developer)](https://git.io/typing-svg)
 
 ---
 
